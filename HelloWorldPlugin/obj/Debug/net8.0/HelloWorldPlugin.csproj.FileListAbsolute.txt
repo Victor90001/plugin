@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\HelloWorldPlugin.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\HelloWorldPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\HelloWorldPlugin.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\HelloWorldPlugin.AssemblyInfo.cs
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\HelloWorldPlugin.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\bin\Debug\net8.0\HelloWorldPlugin.deps.json
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\bin\Debug\net8.0\HelloWorldPlugin.dll
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\bin\Debug\net8.0\HelloWorldPlugin.pdb
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\HelloWorldPlugin.dll
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\refint\HelloWorldPlugin.dll
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\HelloWorldPlugin.pdb
+D:\Visual Studio Projects\PluginProject\HelloWorldPlugin\obj\Debug\net8.0\ref\HelloWorldPlugin.dll
