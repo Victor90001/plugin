@@ -20,7 +20,7 @@ public class DMRefill: BasePlugin, IPluginConfig<DeathmatchConfig>
 {
     public override string ModuleName => "Deathmatch Refill Plugin";
     public override string ModuleAuthor => "vurc";
-    public override string ModuleVersion => "0.0.1";
+    public override string ModuleVersion => "0.0.2";
 
     public DeathmatchConfig Config { get; set; }
 
@@ -31,7 +31,7 @@ public class DMRefill: BasePlugin, IPluginConfig<DeathmatchConfig>
 
     public void OnConfigParsed(DeathmatchConfig config)
     {
-        throw new NotImplementedException();
+        Config = config;
     }
 
     [GameEventHandler]
