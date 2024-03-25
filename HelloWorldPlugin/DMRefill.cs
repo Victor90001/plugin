@@ -20,7 +20,7 @@ public class DMRefill: BasePlugin, IPluginConfig<DeathmatchConfig>
 {
     public override string ModuleName => "Deathmatch Refill Plugin";
     public override string ModuleAuthor => "vurc";
-    public override string ModuleVersion => "0.0.2";
+    public override string ModuleVersion => "0.0.3";
 
     public DeathmatchConfig Config { get; set; }
 
@@ -64,7 +64,6 @@ public class DMRefill: BasePlugin, IPluginConfig<DeathmatchConfig>
                 attacker.PlayerPawn.Value.Health += giveHP;
                 Utilities.SetStateChanged(attacker.PlayerPawn.Value, "CBaseEntity", "m_iHealth");
             }
-            @event.FireEventToClient(attacker);
         }
         return HookResult.Continue;
     }
